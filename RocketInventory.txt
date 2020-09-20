@@ -1,0 +1,6 @@
+High Score:2239.5
+Coins:15
+Features:
+Rocket buddy: Yes
+Store:
+Rocket buddy:1000
